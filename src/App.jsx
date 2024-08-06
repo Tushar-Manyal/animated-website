@@ -35,4 +35,4 @@ const locomotiveScroll = new LocomotiveScroll();
   )
 }
 
-export default App
+export default App;

@@ -22,7 +22,7 @@ function Eyes2() {
 
   return (
     <div className=" eyes w-full h-screen overflow-hidden border-b-[1px] border-#CDEA68 rounded-bl-3xl rounded-br-3xl ">
-        <div className="relative w-full h-full bg-[#CDEA68] bg-cover bg-center">
+        <div className="relative w-full h-full bg-[#c7ea68] bg-cover bg-center">
             <div className="absolute top-1/2 left-1/2 flex gap-10 -translate-x-[50%] -translate-y-[50%] ">
                 <div className="w-[20vw] h-[20vw] flex items-center justify-center rounded-full bg-white">
                 <div className="w-[10vw] h-[10vw] relative  rounded-full bg-black text-white flex items-center justify-center"> PLAY
